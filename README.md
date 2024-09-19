@@ -1,8 +1,8 @@
 # Stock-Prediction-Analysis-Altair
 
-The goal is to predict future stock trends by analyzing historical data.
 
-This project performs stock prediction analysis on the **Microsoft Stock dataset** from Kaggle using **Altair** for visualization and analysis. 
+This project performs stock prediction analysis on the **Microsoft Stock dataset** from Kaggle using **Altair** for visualization and analysis. The goal is to predict future stock trends by analyzing historical data.
+
 
 ## Dataset
 
